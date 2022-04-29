@@ -17,7 +17,7 @@ What you can get in Sazumi Cloud:
 `$ Coming to the public`  
 
 ## About
-Hello, I am developer of Sazumi Cloud, you can visit my blog for more knowledge [my blog](https://sazumiviki.com). 
+Hello, I am developer of Sazumi Cloud, you can visit my blog for more knowledge [my blog](https://www.sazumiviki.com). 
 
 ## License
 Apache 2.0
