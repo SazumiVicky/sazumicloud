@@ -1,0 +1,50 @@
+{
+  "name": "sazumicloud",
+  "version": "0.10.0",
+  "description": "hello world, I'm a sazumicloud user",
+  "main": "./src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "sazumicloud": "./src/main.js"
+  },
+  "author": "Sazumi Viki ( Viki Hidayat )",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "favicons": "^6.0.0",
+    "fs-extra": "^9.0.0",
+    "js-yaml": "^3.13.1",
+    "liquidjs": "^9.11.11",
+    "live-server": "^1.2.1",
+    "mathjax-node-page": "^3.2.0",
+    "moment": "^2.25.1",
+    "pretty-hrtime": "^1.0.3",
+    "recursive-readdir": "^2.2.2",
+    "showdown": "^1.9.1",
+    "yargs": "^15.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SazumiVicky/sazumicloud.git"
+  },
+  "keywords": [
+    "sazumicloud",
+    "website",
+    "blog",
+    "programming"
+    "hacking"
+    "indonesiadeveloper"
+    "sazumiviki"
+    "generate"
+  ],
+  "bugs": {
+    "url": "https://github.com/SazumiVicky/sazumicloud/issues"
+  },
+  "homepage": "https://github.com/SazumiVicky/sazumicloud#readme"
+}
