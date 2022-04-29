@@ -1,6 +1,6 @@
 <hr>
 
-<img src="asset/img/sazumicloud.png" alt="Sazumi Cloud">
+<img src="asset/img/sazumicloud.png" width="20px" alt="Sazumi Cloud">
 
 </hr>
 
